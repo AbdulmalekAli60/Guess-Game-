@@ -1,0 +1,16 @@
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\bin\Debug\net6.0-windows\GueseGame.exe
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\bin\Debug\net6.0-windows\GueseGame.deps.json
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\bin\Debug\net6.0-windows\GueseGame.runtimeconfig.json
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\bin\Debug\net6.0-windows\GueseGame.dll
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\bin\Debug\net6.0-windows\GueseGame.pdb
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.Form1.resources
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.csproj.GenerateResource.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.AssemblyInfoInputs.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.AssemblyInfo.cs
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.csproj.CoreCompileInputs.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.dll
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\refint\GueseGame.dll
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.pdb
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\GueseGame.genruntimeconfig.cache
+C:\Users\Zxshx\Dropbox\My PC (DESKTOP-RICEP17)\Desktop\C# mid 1\GueseGame\GueseGame\obj\Debug\net6.0-windows\ref\GueseGame.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TquCjfJ4tDe/R81KBQsocTT/oKPEq9Z47j+ebnWLgmr/LDtruYf5WqXofCcTVs4o85nTMXtVoT2FC2Bt7vWITg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zxshx\\OneDrive\\Desktop\\C# mid 1\\GueseGame\\GueseGame\\GueseGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Zxshx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
